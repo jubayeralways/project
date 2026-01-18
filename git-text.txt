@@ -1,0 +1,26 @@
+git init
+git g README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jubayeralways/project.git
+git push -u origin main
+
+
+
+///////////////////////
+
+git remote add origin https://github.com/jubayeralways/project.git
+git branch -M main
+git push -u origin main
+
+
+
+
+font-family: "Open Sans", sans-serif;
+
+<ul>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><button> MHiree</button></li>
+                </ul>
+
